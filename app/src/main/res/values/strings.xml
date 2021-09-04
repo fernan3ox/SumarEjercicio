@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sumar Ejercicio</string>
+    <string name="PrimerNumero">Escriba el Primer Numero</string>
+    <string name="SegundoNumero">Escriba el Segundo numero</string>
+</resources>
